@@ -39,6 +39,11 @@
       "email": "Gill@gmail.com",
       "password": "$2a$10$cLlYdQVdg7B3R8mi9p3TpOr6nk6D90hLr7Sh33wqYDSR9OazA/gmq",
       "id": "1b647d53-b0d9-49bc-8b59-8e80e4ef652b"
+    },
+    {
+      "email": "fefe@gmail.com",
+      "password": "$2a$10$lvjC0ijKbXbs8NPkC.ezUesVd5qlD9MdYKWnytwLYy.BzbMRSSdcS",
+      "id": "b718f7a4-8a3e-4d07-84e0-a26e77e9b6d5"
     }
   ],
   "creators": [
@@ -52,8 +57,7 @@
       "phone": "+14378861456",
       "avatarUri": "https://images.pexels.com/photos/2887774/pexels-photo-2887774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "specialization": [
-        "Photographer",
-        "Filmmaker"
+        "Photographer"
       ]
     },
     {
@@ -66,8 +70,7 @@
       "phone": "+375295645683",
       "avatarUri": "https://images.pexels.com/photos/3778360/pexels-photo-3778360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "specialization": [
-        "Artist",
-        "Sculptor"
+        "Artist"
       ]
     },
     {
@@ -77,7 +80,7 @@
       "name": "Rita The-Saver",
       "about": "About you",
       "address": "Your location",
-      "avatarUri": "https://us.123rf.com/450wm/2nix/2nix1408/2nix140800099/30818272-anonymous-avatar-profile-icon-vector-.jpg?ver=6",
+      "avatarUri": "https://images.pexels.com/photos/3482523/pexels-photo-3482523.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       "phone": null,
       "specialization": []
     },
@@ -88,7 +91,7 @@
       "name": "Luci Blake",
       "about": "Nothing to say yet",
       "address": "none",
-      "avatarUri": "https://us.123rf.com/450wm/2nix/2nix1408/2nix140800099/30818272-anonymous-avatar-profile-icon-vector-.jpg?ver=6",
+      "avatarUri": "https://images.pexels.com/photos/3565370/pexels-photo-3565370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "phone": "none",
       "specialization": []
     },
@@ -96,10 +99,10 @@
       "id": "11a1af7f-4a72-4fc1-bcf3-d1e4a6f56b2b",
       "userId": "11a1af7f-4a72-4fc1-bcf3-d1e4a6f56b2b",
       "email": "wfwf@gmail.com",
-      "name": "Fjwjff vsgsg",
+      "name": "Joseff Cooke",
       "about": "Nothing to say yet",
       "address": "none",
-      "avatarUri": "https://us.123rf.com/450wm/2nix/2nix1408/2nix140800099/30818272-anonymous-avatar-profile-icon-vector-.jpg?ver=6",
+      "avatarUri": "https://images.pexels.com/photos/3497183/pexels-photo-3497183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "phone": "none",
       "specialization": []
     },
@@ -109,14 +112,15 @@
       "email": "Rrr@gmail.com",
       "name": "Fred Fefef",
       "about": "Gfgvb bgytygh vftruygbvftd",
-      "address": "none",
-      "avatarUri": "https://images.pexels.com/photos/2412716/pexels-photo-2412716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "phone": "none",
+      "address": "Аeorgia",
+      "avatarUri": "https://images.pexels.com/photos/6194492/pexels-photo-6194492.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "phone": "+3752378232333",
       "specialization": [
         [
           "3D-artist"
         ]
-      ]
+      ],
+      "location": "nonerrrr"
     },
     {
       "id": "8d0f4abf-3911-4766-a001-01a9984de43b",
@@ -140,9 +144,23 @@
       "name": "Robert Gill",
       "about": "Nothing to say yet",
       "address": "none",
-      "avatarUri": "file:///Users/admin/Library/Developer/CoreSimulator/Devices/CD9A9B0D-CE1C-4160-B6EC-53C7318159F0/data/Containers/Data/Application/2F902083-24E5-4A61-95FE-AF6EAEF85E53/Documents/images/6DB12E71-8235-43CB-8625-4DD07D61856D.jpg",
+      "avatarUri": "https://images.pexels.com/photos/4438019/pexels-photo-4438019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "phone": "none",
       "specialization": []
+    },
+    {
+      "0": "Bbvvvvvvvv",
+      "id": "b718f7a4-8a3e-4d07-84e0-a26e77e9b6d5",
+      "userId": "b718f7a4-8a3e-4d07-84e0-a26e77e9b6d5",
+      "email": "fefe@gmail.com",
+      "name": "Fnfnefe efekhfe",
+      "about": "Fffffff",
+      "address": "",
+      "avatarUri": "https://images.pexels.com/photos/2763239/pexels-photo-2763239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "phone": "none",
+      "specialization": [
+        "Painter"
+      ]
     }
   ],
   "categories": [
@@ -262,8 +280,58 @@
       "categoryId": 2,
       "title": "Сыымвымып",
       "description": "Алуjfejg gegjjgjejge fjjjАла",
-      "uri": "https://res.cloudinary.com/dwucj2mkl/image/upload/v1607966247/wkyuyuqnx0wii91ojjkc.jpg",
+      "uri": "https://images.pexels.com/photos/5566812/pexels-photo-5566812.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       "price": "10",
+      "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "7a88c8df-0c1d-406e-8199-620ec760df72",
+      "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
+      "categoryId": 3,
+      "title": "Loevkv vkejvoeve fefjeof",
+      "description": "Алуjfejg gegjjgjejge fjjjАла",
+      "uri": "https://images.pexels.com/photos/5913949/pexels-photo-5913949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price": "10",
+      "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "69ca5818-7581-437d-b497-61aff0f1e94f",
+      "creatorId": "1b647d53-b0d9-49bc-8b59-8e80e4ef652b",
+      "categoryId": 2,
+      "title": "Loevkv vkejvoeve fefjeof",
+      "description": "Jxjs gedvcemfmefefef fef ffff erfhefnewf ehfgeurhgrehgregherg gergnjhg",
+      "uri": "https://images.pexels.com/photos/5088630/pexels-photo-5088630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price": "7",
+      "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "3cb2c9a8-64a1-43ec-9234-7ec0920dfd3e",
+      "creatorId": "1b647d53-b0d9-49bc-8b59-8e80e4ef652b",
+      "categoryId": 2,
+      "title": "Loevkv vkejvoeve fefjeof",
+      "description": "Алуjfejg gegjjgjejge fjjjАла fnerfhefnewf ehfgeurhgrehgregherg gergnjhg",
+      "uri": "https://images.pexels.com/photos/821652/pexels-photo-821652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price": "20",
+      "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "70d51c23-e683-4de6-abc1-30c7bde60142",
+      "creatorId": 1,
+      "categoryId": 4,
+      "title": "Vjfiiendrkf",
+      "description": "АJhh gegjjgjejvjiev nevhiev vvvvv ff ehfgeurhgrehgregherg gergnjhg",
+      "uri": "https://images.pexels.com/photos/2832382/pexels-photo-2832382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price": "20",
+      "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "31527854-888d-4134-bea0-62cee3aef7c5",
+      "creatorId": "1b647d53-b0d9-49bc-8b59-8e80e4ef652b",
+      "categoryId": 4,
+      "title": "Vjfiiendrkf",
+      "description": "АJhh gegjjgjejvjiev nevhiev vvvvv ff ehfgeurhgrehgregherg gergnjhg",
+      "uri": "https://images.pexels.com/photos/3952240/pexels-photo-3952240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price": "3",
       "location": "Titova 12, Hrodna, Belarus"
     }
   ],
@@ -289,19 +357,34 @@
       "id": "5b67c1d8-a503-4d77-800a-69612f8a7eba"
     },
     {
-      "pictureId": "3",
+      "pictureId": "2",
       "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
-      "id": "d3a890fb-9f69-455a-9aec-2c14aee59761"
+      "id": "bf30d075-67fb-4279-8ce5-5928b4a4d92a"
     },
     {
       "pictureId": "4",
       "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
-      "id": "354c7e1c-ff65-40e5-a3b7-e322732693b2"
+      "id": "7f969424-d34a-49f3-bd70-ee17a1426860"
     },
     {
-      "pictureId": "2",
+      "pictureId": "3",
       "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
-      "id": "bf30d075-67fb-4279-8ce5-5928b4a4d92a"
+      "id": "d2083075-2aee-43a5-91d5-8e9a8f13090a"
+    },
+    {
+      "pictureId": "70d51c23-e683-4de6-abc1-30c7bde60142",
+      "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
+      "id": "0012d95e-746e-4072-8ab6-4d49b429c471"
+    },
+    {
+      "pictureId": "3cb2c9a8-64a1-43ec-9234-7ec0920dfd3e",
+      "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
+      "id": "50ad46d9-abce-47e5-a776-8b8dfbb26d4f"
+    },
+    {
+      "pictureId": "31527854-888d-4134-bea0-62cee3aef7c5",
+      "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
+      "id": "25aea188-bca2-4200-8457-5f532315021a"
     }
   ]
 }
