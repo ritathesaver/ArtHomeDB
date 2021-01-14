@@ -44,6 +44,11 @@
       "email": "fefe@gmail.com",
       "password": "$2a$10$lvjC0ijKbXbs8NPkC.ezUesVd5qlD9MdYKWnytwLYy.BzbMRSSdcS",
       "id": "b718f7a4-8a3e-4d07-84e0-a26e77e9b6d5"
+    },
+    {
+      "email": "rita@gmail.com",
+      "password": "$2a$10$j7l9aUCoPA5WQPdmseMfT.ofpIYJE8P3e3Yo.Ics5FIQtpLCHuqy2",
+      "id": "1475af17-76e8-4578-9a3e-6c62c306c999"
     }
   ],
   "creators": [
@@ -160,6 +165,20 @@
       "phone": "none",
       "specialization": [
         "Painter"
+      ]
+    },
+    {
+      "id": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "userId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "email": "rita@gmail.com",
+      "name": "Rita Tulia",
+      "about": "Nothing to say yet",
+      "address": "Minsk",
+      "avatarUri": "file:///Users/admin/Library/Developer/CoreSimulator/Devices/CD9A9B0D-CE1C-4160-B6EC-53C7318159F0/data/Containers/Data/Application/768545C2-8510-42AE-9077-7A857811C151/Documents/images/F74D5F7D-26CB-4E84-AFEE-DA31AAE08236.jpg",
+      "phone": "+2444445566666gg",
+      "specialization": [
+        "Sculptor ",
+        "1231"
       ]
     }
   ],
@@ -333,6 +352,36 @@
       "uri": "https://images.pexels.com/photos/3952240/pexels-photo-3952240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "price": "3",
       "location": "Titova 12, Hrodna, Belarus"
+    },
+    {
+      "id": "d5aa9e39-1e97-41d0-a666-00e949328ceb",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "categoryId": 3,
+      "title": "Vvvfffvyyyyy",
+      "description": "Dddddddddd",
+      "uri": "https://res.cloudinary.com/dwucj2mkl/image/upload/v1609150549/q0of4ekycgjv3xqefi9v.jpg",
+      "price": "5",
+      "location": "vulica Lieliavielia 22, Hrodna, Belarus"
+    },
+    {
+      "id": "9ef88504-225d-4343-8fcc-f3aa7eca10bd",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "categoryId": 1,
+      "title": "§13123",
+      "description": "123123",
+      "uri": "https://res.cloudinary.com/dwucj2mkl/image/upload/v1609874672/yl0c56f3geym5gkorngg.jpg",
+      "price": "22222222222222222222",
+      "location": "Oktyabrsky, Grodno, Belarus"
+    },
+    {
+      "id": "f40f6921-4e5a-453a-b1a5-d07a65d222c7",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "categoryId": 5,
+      "title": "Tgrijgjgjrg",
+      "description": "Thtorjhgortjhbotrgjtorjghrojthrtojhoh",
+      "uri": "https://res.cloudinary.com/dwucj2mkl/image/upload/v1610198092/hxwj7agx6giuvfaigvoy.jpg",
+      "price": "10",
+      "location": "Leninsky, Grodno, Belarus"
     }
   ],
   "likes": [
@@ -385,6 +434,52 @@
       "pictureId": "31527854-888d-4134-bea0-62cee3aef7c5",
       "creatorId": "781cb577-f676-486b-a055-e1084f3ca826",
       "id": "25aea188-bca2-4200-8457-5f532315021a"
+    },
+    {
+      "pictureId": "69ca5818-7581-437d-b497-61aff0f1e94f",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "d369ef3a-ca06-488e-8902-a0195fefc2f5"
+    },
+    {
+      "pictureId": "1130f99b-c09f-43db-ac58-ac0ba80822a9",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "fc8842f1-f824-4f7e-8154-6003a8a642e3"
+    },
+    {
+      "pictureId": "2",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "56a99330-3ac6-4605-8e4d-499ef9843adc"
+    },
+    {
+      "pictureId": "1",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "9c2f0ac3-d0c2-4fcc-9dbc-544f9ed032a9"
+    },
+    {
+      "pictureId": "4",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "94e877dc-d4c5-48a5-8f82-92475f010658"
+    },
+    {
+      "pictureId": "f40f6921-4e5a-453a-b1a5-d07a65d222c7",
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "2b7034bc-8a3e-4ca7-af77-3daed6f1a7c6"
+    }
+  ],
+  "orders": [
+    {
+      "pictureUri": "https://images.pexels.com/photos/5014213/pexels-photo-5014213.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "picturePrice": 20,
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "id": "188b04a6-a538-4c95-b2d7-742918ef8388",
+      "status": true
+    },
+    {
+      "id": "a2719aa9-f682-41b4-9ea0-1e95c8b99a0e",
+      "pictureUri": "https://images.pexels.com/photos/4954715/pexels-photo-4954715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "picturePrice": 10,
+      "creatorId": "1475af17-76e8-4578-9a3e-6c62c306c999",
+      "status": true
     }
   ]
 }
